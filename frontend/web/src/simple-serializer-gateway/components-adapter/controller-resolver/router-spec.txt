@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\simple-serializer-gateway\components-adapter\controller-resolver\router-spec.txt
+// Generated at: 2025-10-14T07:40:26.417Z
